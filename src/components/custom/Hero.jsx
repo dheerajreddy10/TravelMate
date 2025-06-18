@@ -149,7 +149,7 @@ function Hero({ heroRef }) {
           <Link to="/plan-a-trip">
             <Button className="">
               {isAuthenticated
-                ? "Let's Make  Trip"
+                ? "Let's Make A Trip"
                 : "Plan a Trip, It's Free"}
             </Button>
           </Link>
