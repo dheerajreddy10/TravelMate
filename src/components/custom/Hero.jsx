@@ -149,16 +149,13 @@ function Hero({ heroRef }) {
           <Link to="/plan-a-trip">
             <Button className="">
               {isAuthenticated
-                ? "Let's Make Another Trip"
+                ? "Let's Make  Trip"
                 : "Plan a Trip, It's Free"}
             </Button>
           </Link>
           {/* <Link
             target="_blank"
-            rel="noopener noreferrer"
-            to="https://www.buymeacoffee.com/satendra03"
-          >
-            <Button variant="secondary">Buy Me a Coffee</Button>
+            r
           </Link> */}
         </div>
         <div className="marquee relative flex w-[75vw] flex-col items-center justify-center overflow-hidden rounded-lg bg-background">
