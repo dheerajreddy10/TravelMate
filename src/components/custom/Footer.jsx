@@ -14,27 +14,27 @@ function Footer({ footerRef }) {
     {
       name: "GitHub",
       icon: <AiFillGithub />,
-      link: "",
+      link: "https://github.com/dheerajreddy10",
     },
     {
       name: "Linkedin",
       icon: <AiFillLinkedin />,
-      link: "",
+      link: "www.linkedin.com/in/challa-dheeraj-reddy-482a4224b",
     },
     {
       name: "Instagram",
       icon: <AiFillInstagram />,
-      link: "",
+      link: "https://www.instagram.com/dheerajr_21/",
     },
     {
       name: "Mail",
       icon: <AiFillMail />,
-      link: "",
+      link: "dheerajreddy1001@gmail.com",
     },
     {
       name: "Twitter",
       icon: <AiFillTwitterCircle />,
-      link: "",
+      link: "https://x.com/DheerajReddy921?t=GnTtjAthoWsnUdt3AXcsww&s=09",
     },
   ];
   return (
